@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🏫 I’m a senior student at NYCU. 
+I’m Shandy 💁‍♀️ 
+Currently a senior student at NYCU 🏫
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shandy-yuyu&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shandy-yuyu&theme=dracula)
